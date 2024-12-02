@@ -22,7 +22,7 @@
 <h1>About Discord Report V1</h1>
 <p><li>Author: nfo</li></p>
 <p><li>Version: 1.0</li></p>
-<p><li>Language: Python and JavaScript</li></p>
+<p><li>Language: Python</li></p>
 <h1>Contact</h1>
 <p><li>Email: hello@nfoisking.com</li></p>
 <h1>Thanks for using</h1>
